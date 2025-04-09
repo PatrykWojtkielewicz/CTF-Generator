@@ -4,3 +4,4 @@
 
 - Base 64
 - Finding needle in a haystack
+- Brute force attack
